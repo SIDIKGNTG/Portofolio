@@ -917,12 +917,13 @@
                 </div>
                 
                 <div class="project-card reveal delay-1">
-                    <div class="project-img"><i class="fa-solid fa-building-columns"></i></div>
+                    <div class="project-img"><i class="fa-solid fa-cash-register"></i></div>
                     <div class="project-info">
-                        <h3>Portal Akademik Terpadu</h3>
-                        <p>Platform administrasi sekolah untuk pencatatan pembayaran dan data siswa dengan struktur database yang solid.</p>
+                        <h3>Kasir Sidik</h3>
+                        <p>Aplikasi kasir (Point of Sale) interaktif untuk memproses transaksi dan memperbarui inventaris barang secara real-time.</p>
                         <div class="project-links">
                             <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i> Demo</a>
+                            <a href="https://github.com/SIDIKGNTG" target="_blank"><i class="fa-brands fa-github"></i> Source</a>
                         </div>
                     </div>
                 </div>
